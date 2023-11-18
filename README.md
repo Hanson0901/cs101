@@ -35,7 +35,7 @@ CGU computer science HW
 <li>
 <b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
 </li>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 </div>
 <div>
 
