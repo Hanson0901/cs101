@@ -27,15 +27,15 @@ CGU computer science HW
 <li>
  <b>Name:</b> Hanson</li>
 <li>
-<b>Loves:</b> anime,Apex Legend, rhythm games
+<b>Loves:</b> anime ,FPS ,rhythm games ,coding(?)
 </li>
 <li>
-<b>Gender:</b> God
+<b>Gender:</b> GOD??
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+<b>nickname:</b> Life hacker, Computer Genius(slfcal) , season 17 Master , Old Dog
 </li>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </div>
 <div>
 
