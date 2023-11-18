@@ -22,7 +22,7 @@ CGU computer science HW
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<img src="https://media.tenor.com/qWwyX-cykv0AAAAd/suisei-%E6%98%9F%E8%A1%97%E3%81%99%E3%81%84%E3%81%9B%E3%81%84.gif" align="right">
   </div>
 <li>
  <b>Name:</b> Hanson</li>
@@ -41,7 +41,7 @@ CGU computer science HW
 
 <h2 align="center"> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ </h2>
 <div align="center">
-<img src="https://i.imgur.com/tzYKRfd.gif">
+<img src="https://media.tenor.com/CWgfFh7ozHkAAAAC/rick-astly-rick-rolled.gif">
 </div>
 <hr>
 </div>
